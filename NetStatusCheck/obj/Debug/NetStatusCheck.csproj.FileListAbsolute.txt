@@ -1,0 +1,14 @@
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\bin\Debug\NetStatusCheck.exe.config
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\bin\Debug\NetStatusCheck.exe
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\bin\Debug\NetStatusCheck.pdb
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\MainWindow.g.cs
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\App.g.cs
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\NetStatusCheck_MarkupCompile.cache
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\NetStatusCheck_MarkupCompile.lref
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\MainWindow.baml
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\NetStatusCheck.g.resources
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\NetStatusCheck.Properties.Resources.resources
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\NetStatusCheck.csproj.GenerateResource.Cache
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\NetStatusCheck.exe
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\NetStatusCheck.pdb
+D:\MyProject\VisualStudio\NetStatusCheck\NetStatusCheck\obj\Debug\NetStatusCheck.csprojResolveAssemblyReference.cache
